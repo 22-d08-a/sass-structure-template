@@ -9,7 +9,7 @@
 
 ## Struktur
 
-Weil es vielen von euch schwer fällt, die neue Struktur von sass zu strukturieren oder umzusetzten, teile dieses Dokument mit euch. Dies ist das allgemeine Setup, dass du möglicherweise für deinen Build benötigst. Natürlich können sich die Dinge manchmal ändern, aber dies ist ein Überblick darüber, was du haben kannst.
+Weil es vielen von euch schwer fällt, die neue Struktur von sass zu strukturieren oder umzusetzten, teile ich dieses Dokument mit euch. Dies ist das allgemeine Setup, dass du möglicherweise für deinen Build benötigst. Natürlich können sich die Dinge manchmal ändern, aber dies ist ein Überblick darüber, was du haben kannst.
 
 ```
 scss/
